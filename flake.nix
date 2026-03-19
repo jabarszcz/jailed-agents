@@ -34,8 +34,10 @@
           which
           ripgrep
           gnugrep
+          gnused
           gawkInteractive
           ps
+          python3
           findutils
           gzip
           unzip
